@@ -1,7 +1,7 @@
 # Weather-App
 It is a kind of weather app, where you can find city's weather by searching for it.
 
-# Installation and usage instructions
+# Contributing
 #### 1. Fork the repository: 
 Click on the "Fork" button at the top-right corner of the repository's page on GitHub to create your own copy of the project.
 
